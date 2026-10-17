@@ -1,0 +1,8 @@
+{
+  "name": "genpark-dynamic-video-outreach-script-synthesizer-and-variable-injector-skill",
+  "version": "1.0.0",
+  "description": "Dynamic multi-variable video outreach script generator with phoneme pacing and personalized token injection",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+[project]
+name = "genpark-dynamic-video-outreach-script-synthesizer-and-variable-injector-skill"
+version = "1.0.0"
+description = "Dynamic multi-variable video outreach script generator with phoneme pacing and personalized token injection"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
